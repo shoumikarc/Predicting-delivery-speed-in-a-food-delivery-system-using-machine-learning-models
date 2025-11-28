@@ -154,11 +154,9 @@ The project includes comprehensive visualizations:
 
 ## 👥 Team Members (Group 8)
 
-| Name | Student ID | GitHub |
-|------|------------|--------|
-| Md. Shariar Islam Shuvo | 21201105 | [@shariar-username](#) |
-| Shakib Shadman Shoumik | 22101057 | [@shoumikarc](https://github.com/shoumikarc) |
-| Md Nurullah | 21201262 | [@nurullah-username](#) |
+**Md. Shariar Islam Shuvo**
+**Shakib Shadman Shoumik**
+**Md Nurullah** 
 
 ## 📄 Full Report
 
