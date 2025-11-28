@@ -214,6 +214,3 @@ For questions, suggestions, or collaboration opportunities:
 
 This project is submitted as academic coursework for CSE422 - Artificial Intelligence at BRAC University.
 
----
-
-**Project Repository:** https://github.com/shoumikarc/Predicting-delivery-speed-in-a-food-delivery-system-using-machine-learning-models
